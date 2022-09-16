@@ -1,6 +1,7 @@
 # XoX-client-server-app
 
 XoX igrica izmedju dva klijenta koja su povezana na server.
+Komunikacija izmedju klijenta i servera je implementirana preko TCP(socket) protokola koriscenjem Java API-ja.
 
 Igrica se odvija u konzoli(terminalu).
 
